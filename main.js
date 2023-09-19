@@ -111,6 +111,6 @@ console.log('Cantidad unidades x hoja ='+ unidadesPorHoja);
 console.log('Cantidad Hojas necesarias ='+ hojasImpresion);
 console.log('Costo total ='+ costoTotal);
 
-console.log('hoja ='+ hoja);
+// console.log('hoja ='+ hoja); //entrada switch
 
 
